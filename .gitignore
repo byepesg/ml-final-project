@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/raw/**
+data/interim/**
+data/processed/**
+data/external/**
+
+# Models
+models/checkpoints/**
+models/final/**
+
+# Generated results
+results/figures/**
+results/metrics/**
+results/reports/**
+results/tables/**
+
+# macOS
+.DS_Store
