@@ -54,6 +54,7 @@ MarkupSafe==3.0.4
 matplotlib==3.11.2
 matplotlib-inline==0.2.2
 mistune==3.4.0
+-e git+ssh://git@github-ml-project/byepesg/ml-final-project.git@aff6cffe4177df84effa1598993f7f1f4a9c5881#egg=ml_project
 narwhals==2.27.1
 nbclient==0.11.0
 nbconvert==7.17.2
@@ -68,6 +69,7 @@ parso==0.8.7
 pexpect==4.9.0
 pillow==13.0.0
 platformdirs==4.13.5
+plotly==7.1.0
 pluggy==1.7.0
 prometheus_client==0.26.0
 prompt_toolkit==3.0.53
