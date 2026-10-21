@@ -1,0 +1,64 @@
+.
+├── README.md
+├── app
+│   └── app.py
+├── configs
+├── data
+│   ├── external
+│   │   └── geo
+│   │       ├── colombia-municipios.topojson
+│   │       └── colombia_departamentos.geojson
+│   ├── interim
+│   ├── processed
+│   └── raw
+│       └── elecciones_2026
+│           ├── MMV_Presidente1V_2026.zip
+│           └── extracted
+│               └── MMV_Presidente1V_2026
+│                   └── MMV_Presidente1V_2026
+├── docs
+│   └── data_dictionary
+├── experiments
+├── models
+│   ├── checkpoints
+│   └── final
+├── notebooks
+│   ├── 01_business_understanding
+│   │   └── BSYG_M2U2_fase_1_Entendimiento_del_negocio.ipynb
+│   ├── 02_data_understanding
+│   │   └── Copy_of_M2U3_fase_2_Entendimiento_de_los_datos.ipynb
+│   ├── 03_data_preparation
+│   ├── 04_exploratory_analysis
+│   ├── 05_modeling
+│   └── 06_evaluation
+├── prueba.txt
+├── pyproject.toml
+├── requirements.txt
+├── results
+│   ├── figures
+│   ├── metrics
+│   ├── reports
+│   └── tables
+├── scripts
+├── src
+│   ├── ml_project
+│   │   ├── __init__.py
+│   │   ├── data
+│   │   │   └── __init__.py
+│   │   ├── evaluation
+│   │   │   └── __init__.py
+│   │   ├── features
+│   │   │   └── __init__.py
+│   │   ├── models
+│   │   │   └── __init__.py
+│   │   └── visualization
+│   │       └── __init__.py
+│   └── ml_project.egg-info
+│       ├── PKG-INFO
+│       ├── SOURCES.txt
+│       ├── dependency_links.txt
+│       ├── requires.txt
+│       └── top_level.txt
+└── tests
+
+41 directories, 21 files
