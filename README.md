@@ -319,7 +319,9 @@ La reproducibilidad del proyecto se apoya en:
 
 ## Equipo
 
-_Por documentar: integrantes, roles y afiliación institucional._ FALTA AQUIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+1. ---**Alejandra Jaramillo Mejia 1002652912**---
+2. ---**Santiago Chaparro Suzunaga 1002760592**---
+3. ---**Brayan Sebastian Yepes Garcia 1015457884**---
 
 ## Referencias
 
